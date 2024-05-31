@@ -26,7 +26,7 @@ export default function Home() {
 <li><span style="color: #000000;"><strong>Thép cuộn mạ kẽm nhúng nóng:</strong> JIS G3302:2010 (Nhật Bản).</span></li>
 </ul>
 <figure>
-    <img src="https://satthepbienhoa.vn/wp-content/uploads/2024/04/Bang-gia-thep-hop-Hoa-Phat-tai-Binh-Duong.jpg" alt="thep hop hoa phat" style="width: 100%; padding: 5px; background-color: grey;">
+    const element = <img src={https://satthepbienhoa.vn/wp-content/uploads/2024/04/Bang-gia-thep-hop-Hoa-Phat-tai-Binh-Duong.jpg}></img>;
 <h2><span style="color: #000000;"><strong>Ống thép mạ kẽm hòa phát là gì? </strong></span></h2>
 <p dir="auto" data-pm-slice="1 1 []"><span style="color: #000000;">Ống thép mạ kẽm Hòa Phát là một loại ống thép kẽm chất lượng cao và bề mặt kẽm bên ngoài sáng bóng, được sản xuất và cung cấp bởi Tập đoàn Hòa Phát một trong những doanh nghiệp hàng đầu trong lĩnh vực sản xuất và phân phối ống thép tại Việt Nam</span></p>
 <p dir="auto"><span style="color: #000000;">Ống thép mạ kẽm nhúng nóng Hòa Phát là sản phẩm chất lượng cao được ưa chuộng trên thị trường với đặc tính bền bỉ và khả năng chống ăn mòn tốt. Sản phẩm được thông qua quá trình mạ kẽm, sơn, xi hoặc tráng kẽm, giúp tăng cường độ bền và tuổi thọ.</span></p>
