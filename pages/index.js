@@ -12,10 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to my Sắt Thép Biên Hòa" />
-        <p className="description">
-          Liên Hệ Ngay cho chúng tôi <code>0946 90 63 63</code>
-        </p>
-    <h2><span id="Gioi_thieu_ve_tap_doan_Hoa_Phat"><span style="color: #000000;"><strong>Giới thiệu về tập đoàn Hòa Phát</strong></span></span></h2>
+<h2><span id="Gioi_thieu_ve_tap_doan_Hoa_Phat"><span style="color: #000000;"><strong>Giới thiệu về tập đoàn Hòa Phát</strong></span></span></h2>
 <p><span style="color: #000000;">Thép Hòa Phát là một tập đoàn trong ngành công nghiệp thép tại Việt Nam được thành lập vào ngày 20/8/1996. Hòa Phát đã khẳng định vị thế của mình trong việc sản xuất và cung cấp các sản phẩm thép chất lượng cao như ống mạ kẽm nhúng nóng, ống thép đen hàn, ống thép tôn mạ kẽm, thép cuộn mạ kẽm nhúng nóng và ống thép hộp vuông, chữ nhật.</span></p>
 <p><span style="color: #000000;">Từ một nhà máy ban đầu tại Hưng Yên, Hòa Phát đã không ngừng phát triển và mở rộng quy mô sản xuất. Với việc xây dựng thêm 3 nhà máy sản xuất tại các tỉnh lân cận như Long An, Bình Dương và Đà Nẵng, Hòa Phát đã khẳng định vị thế của mình trong ngành công nghiệp thép Việt Nam.</span></p>
 <p><span style="color: #000000;">Hiện nay, Hòa Phát là một trong những tập đoàn sản xuất ống thép lớn nhất Việt Nam, với công suất sản xuất lớn ước tính khoảng 15 triệu tấn/năm.</span></p>
@@ -81,6 +78,9 @@ export default function Home() {
 <p><span id="Dien_Thoai_0945_906_363_0251_3913_360" style="font-size: 100%; color: #000000;"><span id="Dien_Thoai_0945_906_363_8211_0251_3913_360"><i class="fa fa-phone" aria-hidden="true"></i>Điện Thoại: 0945 906 363 – (0251) 3913 360</span></span></p>
 <p><span id="Website_httpssatthepbienhoavn" style="font-size: 100%; color: #000000;">Website : <strong><a style="color: #000000;" href="https://satthepbienhoa.vn/">https://satthepbienhoa.vn/</a></strong></span></p>
 <p style="text-align: right;"><strong><span style="color: #000000;">Ban Biên Tập: Sắt Thép Biên Hòa</span></strong></p>
+        <p className="description">
+          Liên Hệ Ngay cho chúng tôi <code> 0946 90 63 63 </code>
+        </p>
       </main>
 
       <Footer />
